@@ -5,14 +5,13 @@ let img = await(await fetch('https://github.com/BrunoSobrino.png')).buffer()
 let _uptime = process.uptime() * 1000
 let uptime = clockString(_uptime)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭────[ *𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭* ]
+let str = `╭────[ *𝐂𝐬𝐚𝐫𝐟𝐟𝐱* ]
 │
 │ *➤ ʜᴏʟᴀ ${taguser}*
 │
 │ *=> 🤖 ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:* ${uptime}
 │ *=> ✅ ʙᴏᴛ ᴅᴇ ᴜsᴏ ᴘᴜʙʟɪᴄᴏ*
-│ *=> 👑 ᴄʀᴇᴀᴅᴏʀ: *𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭*
-│ *=> 🔗 Yape:* 900711258
+│ *=> 👑 ᴄʀᴇᴀᴅᴏʀ: *𝐂𝐬𝐚𝐫𝐟𝐟𝐱*
 ╰────────────────`.trim() 
 if (m.isGroup) {
 conn.sendMessage(m.chat, { image: pp, caption: str.trim(), mentions: [...str.matchAll(/@([0-9]{5,16}|0)/g)].map(v => v[1] + '@s.whatsapp.net')}, { quoted: m })    
