@@ -1,13 +1,13 @@
-# `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
+# `🧿 Csarffx Bot 🔮`
 
 ### `—◉ 🔗 CUENTAS OFICIALES 🔗`
 
-* https://www.atom.bio/theshadowbrokers-team
+* [https://www.atom.bio/theshadowbrokers-team](https://www.instagram.com/Csarffx/)
 
 ### `—◉ 💟 GRUPO DE SOPORTE 💟`
 
-<a href="https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE_(𝙴𝚂)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="[https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs](https://chat.whatsapp.com/JnUrMc0YX2DJhEQbUOHGx4)" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE_(𝙴𝚂)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="h[ttps://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs](https://chat.whatsapp.com/JnUrMc0YX2DJhEQbUOHGx4)" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS QUE SEAN BOTS
 
