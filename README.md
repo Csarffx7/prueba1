@@ -71,7 +71,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mystic-termux
+> cd prueba1
 > npm start
 ```
 
@@ -80,7 +80,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mystic-termux
+> cd prueba1
 > rm -rf MysticSession
 > npm start
 ```
